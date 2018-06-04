@@ -7,5 +7,6 @@ public class My {
     public void test() {
         System.out.println("aasd");
         System.out.println("123");
+        System.out.println("assd");
     }
 }

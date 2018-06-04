@@ -12,6 +12,6 @@ public class Main {
         String a2 = "a";
         String a3 = "a";
         String a5 = "b";
-        String b = "b";
+        String b = "c";
     }
 }

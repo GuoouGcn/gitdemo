@@ -7,6 +7,6 @@ package com.gjx.webservice;
 public class My1Class {
 
     public void test2() {
-        System.out.println("aaaa");
+        System.out.println("aa");
     }
 }

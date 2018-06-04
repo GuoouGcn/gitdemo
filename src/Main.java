@@ -11,5 +11,6 @@ public class Main {
         String a = "a";
         String a2 = "a";
         String a3 = "a";
+        String a5 = "b";
     }
 }

@@ -5,6 +5,6 @@
 public class My {
 
     public void test() {
-        System.out.println("ad");
+        System.out.println("assd");
     }
 }

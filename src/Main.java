@@ -10,5 +10,6 @@ public class Main {
         System.out.println("另一个分支");
         String a = "a";
         String a2 = "a";
+        String a3 = "a";
     }
 }

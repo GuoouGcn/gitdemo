@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Hello World im gj13313x!");
         System.out.println("另一个分支");
         String a = "a";
+        String a2 = "a";
     }
 }

@@ -8,5 +8,6 @@ public class Main {
         StringUtils.replaceSeparators("1");
         System.out.println("Hello World im gj13313x!");
         System.out.println("另一个分支");
+        System.out.println("new 3 分支");
     }
 }

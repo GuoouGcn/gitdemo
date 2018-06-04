@@ -11,5 +11,6 @@ public class MyClass {
     }
     public void test2() {
         System.out.println("aa");
+        System.out.println("aa");
     }
 }

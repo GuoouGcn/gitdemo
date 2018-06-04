@@ -6,6 +6,6 @@ public class My {
 
     public void test() {
         System.out.println("aasd");
-        System.out.println("adaa");
+        System.out.println("asdfsaf");
     }
 }
